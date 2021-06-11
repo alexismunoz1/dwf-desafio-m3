@@ -7,7 +7,6 @@ body {
 	padding: 0;
 	background: url("./assets/puntitos.svg");
 }
-
 /*--------final-body---------*/
 
 .header {
@@ -74,7 +73,6 @@ body {
 	font-weight: bold;
 	font-family: "Open Sans";
 }
-
 /*--------final-header---------*/
 
 .main {

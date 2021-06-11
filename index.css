@@ -237,7 +237,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 }
-@media (min-width: 960px) {
+@media (min-width: 1000px) {
 	.contenedor-img-seccion-dos {
 		width: 100%;
 		flex-direction: row;
